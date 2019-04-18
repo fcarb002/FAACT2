@@ -1,0 +1,42 @@
+[Lear051CD0:info (1)0]
+
+        ----------- OFFLOAD -------------
+appName                         =>       offload
+Status                          =>       enabled
+psid                            =>       50
+user Request Type               =>       1
+wsaType                         =>       4
+PSC                             =>       offload
+Service Channel                 =>       176
+Adevertizer identifier          =>       LEAR
+RemoteUserName                  =>       None
+RemoteDestDir                   =>       /tmp
+LocalSrcDir                     =>       /var/storage
+RetryCount                      =>       3
+        ----------------------------------
+
+        ----------- Safety Apps ------------
+FCW advisory TTC                        =>       10 second
+FCW imminent TTC                        =>       5 second
+BSW RV time to reach EV                 =>       5 second
+Ahead zone limit                        =>       13 second
+Far Ahead zone limit                    =>       20 second
+Behind zone limit                       =>       4 second
+Far Behind limit                        =>       12 second
+Reference speed                         =>       5 meter/second
+ICW advisory EV time to intersection    =>       10 second
+ICW advisory EVRV time gap              =>       4 second
+ICW imminent EV time to intersection    =>       5 second
+ICW imminent EVRV time gap              =>       2 second
+ICW minimum merging angle               =>       15 degree
+IMA advisory EV time to intersection    =>       20 second
+IMA RV time to reach impact area        =>       10 second
+LTA RV time  to cross EV                =>       10 second
+SMVA EV speed threshold wrt to RV speed =>       10 mile/hour
+RLV minimum speed limit                 =>       5 meter/second
+DNPW RV time to cross EV                =>       12 second
+Lane width                              =>       4 meter
+RV filter                               =>       enabled
+        ----------------------------------
+
+[Lear051CD0:info (1)0]

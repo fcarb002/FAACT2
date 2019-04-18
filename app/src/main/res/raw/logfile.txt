@@ -1,0 +1,33 @@
+iEventsChanged: 0x0000
+eventFlags: 0x0000
+uiSpeed: 0x1fff 163.820000m/s
+iSteeringWheelAngle: 0x007f 190.50000 degrees
+iLatitudeAcceleration: 0x07d1 20.010000 m/s^2
+iLongitudeAcceleration: 0x07d1 20.010000 m/s^2
+iVerticalAcceleration: 0xffffff81 -2.540000
+iYawRate: 0x0000 0.000000 degree/sec
+iSteeringROC: 0x0000 0.000000 degree/sec
+iDrivingWheelAngle: 0xffffff80 -42.662400 degrees
+uiThrottlePosition: 0x0000 0.000000 %
+uiTransmission: 0x0007 N/A
+uiBrakeSystemStatus: 0x0080 WheelBrakes: ABS ATC:N/A ABS:N/A SAS:N/A Brake-boost:N/A AuxBrk:N/A
+uiLights: 0x0000
+uiSirenUse: 0x0000 Unavail
+uiLightBar: 0x0000
+uiPrivilegedEventFlags: 0x0000
+uiVerticalAccelThreshold: 0x0000
+uiIsRaining: 0x0000 Unavail
+uiAirTemp: 0x00bf 151 C
+uiAirPressure: 0x0000 580.000000 kPa
+uiWiperStatusFront: 0x0000
+uiWiperStatusRear: 0x0000
+uiWiperRateFront: 0x0000 0 wipes/sec
+uiWiperRateRear: 0x0000 0 wipes/sec
+uiTrailerWeight: 0x0000 0.000000 kg
+uiCargoWeight: 0x0000 0.000000 kg
+uiSteeringAxleTemperature: 0x00ff 215 C
+uiDriveAxleLocation: 0x00ff
+uiDriveAxleLiftAirPressure: 0x00ff 1020.000000 kPa
+uiDriveAxleTemperature: 0x00ff 215 C
+uiDriveAxleLubePressure: 0x00ff 1020.000000 kPa
+uiSteeringAxleLubePressure: 0x00ff 1020.000000 kPa
